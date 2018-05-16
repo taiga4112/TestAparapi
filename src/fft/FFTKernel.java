@@ -6,7 +6,7 @@ import org.apache.commons.lang3.ArrayUtils;
 import com.amd.aparapi.Kernel;
 
 /**
- * aparapiを用いた単純な加算プログラム (動作確認用)
+ * aparapiを用いたFFTのKernel
  * @author Taiga Mitsuyuki
  *
  */
